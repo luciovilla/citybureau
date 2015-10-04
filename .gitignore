@@ -1,7 +1,7 @@
 local_fabfile.py
 .vagrant
 wp-content/themes/twenty*
-wp-content/themes/arc*
+wp-content/themes/arc
 *.sql
 data/*
 wp-scripts/*
@@ -77,7 +77,6 @@ wp-content/debug.log
 /wp-content/sunrise.php
 /wp-content/Icon
 /wp-content/plugins/*
-/wp-content/themes/*
 
 # large/disallowed file types
 # a CDN should be used for these

@@ -1,0 +1,17 @@
+/*
+Theme Name: ARC Child
+Theme URI: #
+Author: Shinetheme
+Author URI: http://shinetheme.com
+Description: An Framework Theme Child Theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: stframework-child
+Tags: blue,green
+Template: arc
+
+*/
+
+@import url("../arc/style.css");
+
